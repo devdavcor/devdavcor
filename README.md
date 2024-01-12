@@ -10,6 +10,8 @@ If I applied to a job in your company, maybe you are interested in the next Pyth
 
 ⚡algorithm_analysis: No code portfolio is complete without good algorithm analysis; It is essential to optimize anything.
 
+🖥️ calculadora_IP: This is a simple project to calculate the IP directions from a subneted net.
+
 The list above calls some projects I am developing to practice mi abilities with python and to display as my portfolio 💼; every one of those projects has a requirements file 📁 with the necessary libraries to successfully execute the codes and another describing what I did, how I did it, why I did it. If you have any problem with this, please send me a message or an email 📬 to devdavcor@gmail.com. 
 
 Now, if you only are looking for 🔎 a resource to learn Python 🐍, maybe you are interested in:
